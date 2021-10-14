@@ -1,4 +1,4 @@
 ---
-title: Cours
+title: Blog
 layout: blog
 ---
