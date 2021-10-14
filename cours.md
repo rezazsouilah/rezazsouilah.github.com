@@ -1,0 +1,4 @@
+---
+title: Cours
+layout: blog
+---
