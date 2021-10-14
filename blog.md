@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Cours
 layout: blog
 ---
 
