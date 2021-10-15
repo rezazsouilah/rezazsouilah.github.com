@@ -1,27 +1,27 @@
 ---
-title: Suites numériques
+title: المتتاليات العددية
 layout: post
 comments_id: 1
 post-image: 
 description: 
 tags:
-- Notions générales
-- Suites convergentes
-- Calcul de limites
-- Suites reccurentes
+- مفاهيم أولية
+- المتتاليات الرتيبة
+- المتتاليات المتقارية
+- المتتاليات التراجعية
 ---
 
-Dans ce poste
-
-## Introduction générale
-
-## Suites convergentes
-
-### Définition
 
 
-### Examples
-#### Example1
+## مقدمة عامة
 
-## Suites reccurentes
+## المتتاليات الرتيبة
+
+### تعريف
+
+
+### أمثلة
+#### مثال 1
+
+## المتتاليات المتقاربة
 
