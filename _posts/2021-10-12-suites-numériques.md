@@ -2,7 +2,7 @@
 title: المتتاليات العددية
 layout: post
 comments_id: 1
-post-image: 
+post-image: /img/posts/suites.png
 description: 
 tags:
 - مفاهيم أولية
