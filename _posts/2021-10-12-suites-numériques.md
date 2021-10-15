@@ -11,6 +11,8 @@ tags:
 - المتتاليات التراجعية
 ---
 
+post-image: /img/posts/suites.png
+
 
 
 ## مقدمة عامة
