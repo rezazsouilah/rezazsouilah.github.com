@@ -5,7 +5,7 @@ markdown: kramdown
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
-
+dir: rtl
 # Title of the Site
 title: مدونة صويلح
 # Description of the Site
